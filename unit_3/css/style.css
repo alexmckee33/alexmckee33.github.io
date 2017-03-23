@@ -10,6 +10,11 @@ hr {
 	width: 200px;
 }
 
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+
 #bcg {
 	background: url("../images/duncan.jpg");
 	background-position: center;
@@ -20,12 +25,12 @@ hr {
 	vertical-align: bottom;
 	color: white;
 }
-/*this is an ID/*
+/*this is an ID*/
 #slogan {
 	color:blue;
 	font-style: italic;
 }
-/*this is where a class would be/*
+/*this is where a class would be*/
 .red {
 	color:red;
 }
