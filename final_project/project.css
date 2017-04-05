@@ -1,0 +1,56 @@
+/*this is all tbd as fuck*/
+#intro {
+	color: black;
+	font-style: italic;
+}
+
+#menu {
+	color: black;
+	font-style: italic;
+}
+
+h3 {
+	color: black;
+	font-style: italic;
+}
+
+
+
+
+
+body {
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+}
+
+hr {
+	width: 200px;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+#bcg {
+	background: url("../images/duncan.jpg");
+	background-position: center;
+	background-size: cover;
+	width: 1000px;
+	height: 600px;
+	display: table-cell;
+	vertical-align: bottom;
+	color: white;
+}
+/*this is an ID*/
+#slogan {
+	color:blue;
+	font-style: italic;
+}
+/*this is where a class would be*/
+.red {
+	color:red;
+}
