@@ -1,7 +1,13 @@
 /*this is all tbd as fuck*/
+@import url('https://fonts.googleapis.com/css?family=Hind');
+
 #intro {
 	color: black;
-	font-style: italic;
+	font-family: 'Hind', sans-serif;
+	font-size: 30px;
+	line-height: 45px;
+	letter-spacing: .01em;
+	max-width: 80%;
 }
 
 #menu {
