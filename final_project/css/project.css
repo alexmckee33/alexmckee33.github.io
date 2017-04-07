@@ -9,23 +9,16 @@
 	max-width: 80%;
 }
 
-#menu li {
+#menu {
 	color: black;
 	font-family: 'Robato', sans-serif;
 }
 
-#h2 {
+h3 {
 	color: black;
 	font-family: 'Robato', sans-serif;
 }
 
-#footer-title {
-	color: black;
-	font-family: 'Robato', sans-serif;
-}
 
-#footer-copy {
-	color: black;
-	font-family: 'Robato', sans-serif;
-}
+
 
