@@ -9,30 +9,33 @@
 	max-width: 100%;
 }
 
-li.test {
-	color: red;
-	font-size: 50px;
-	font-family: 'Robato', sans-serif;
-}
-
-#h2 {
+#portfolio {
 	color: black;
+	font-size: 15px;
 	font-family: 'Robato', sans-serif;
 }
 
-#footer-title {
-	color: black;
-	font-family: 'Robato', sans-serif;
-}
-
-#footer-copy {
-	color: black;
-	font-family: 'Robato', sans-serif;
-}
-
-#image_scroll div {
+#image_scroll {
 	float: right;
 	Height: 250px;
 	width: 300px;
 }
+
+#h2 {
+	color: black;
+	font-size: 22px;
+	font-family: 'Hind', sans-serif;
+}
+
+#footer_title {
+	color: black;
+	font-family: 'Robato', sans-serif;
+}
+
+#footer_copy {
+	color: black;
+	font-family: 'Robato', sans-serif;
+}
+
+
 
