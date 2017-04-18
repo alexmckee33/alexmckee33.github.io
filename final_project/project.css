@@ -1,16 +1,17 @@
 /*this is all tbd as fuck*/
 
 #intro {
-	color: black;
+	color: red;
 	font-family: 'Hind', sans-serif;
 	font-size: 30px;
 	line-height: 45px;
 	letter-spacing: .01em;
-	max-width: 80%;
+	max-width: 100%;
 }
 
-#menu li {
-	color: black;
+li.test {
+	color: red;
+	font-size: 50px;
 	font-family: 'Robato', sans-serif;
 }
 
@@ -27,5 +28,11 @@
 #footer-copy {
 	color: black;
 	font-family: 'Robato', sans-serif;
+}
+
+#image_scroll div {
+	float: right;
+	Height: 250px;
+	width: 300px;
 }
 
