@@ -1,24 +1,41 @@
 /*this is all tbd as fuck*/
 
 #intro {
-	color: black;
+	color: red;
 	font-family: 'Hind', sans-serif;
 	font-size: 30px;
 	line-height: 45px;
 	letter-spacing: .01em;
-	max-width: 80%;
+	max-width: 100%;
 }
 
-#menu {
+#portfolio {
+	color: black;
+	font-size: 15px;
+	font-family: 'Robato', sans-serif;
+}
+
+#image_scroll {
+	float: right;
+	Height: 250px;
+	width: 300px;
+}
+
+#h2 {
+	color: black;
+	font-size: 22px;
+	font-family: 'Hind', sans-serif;
+}
+
+#footer_title {
 	color: black;
 	font-family: 'Robato', sans-serif;
 }
 
-h3 {
+#footer_copy {
 	color: black;
 	font-family: 'Robato', sans-serif;
 }
-
 
 
 
